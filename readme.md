@@ -1,4 +1,4 @@
-# Phantom Boost Tool
+# Rayne Boost Tool
 
 A high-performance Discord server boosting tool designed to automate server boosting using multiple accounts.
 
@@ -19,6 +19,6 @@ A high-performance Discord server boosting tool designed to automate server boos
 ## Installation
 
 ```bash
-git clone https://github.com/miszxxx/discord-boost-tool.git
-cd discord-boost-tool
+git clone https://github.com/arshh1337/btool-v7.git
+cd btool-v7
 "Install All Requirements.bat"
